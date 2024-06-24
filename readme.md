@@ -24,8 +24,8 @@
     ```html
     <html>
         <body>
-            <h1>Lorem Ipsum</h1>
-            <ul class='list-data'>
+            <h1>Lorem Ipsum</h1> # element
+            <ul class='list-data'> # tag -> attribute
                 <li id='data1'>dolor</li>
                 <li id='data2'>sit</li>
                 <li id='data3'>amet</li>
